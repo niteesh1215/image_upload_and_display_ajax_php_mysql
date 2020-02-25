@@ -14,3 +14,4 @@ if($result)
     }
 }
 
+ mysqli_close($connection);
