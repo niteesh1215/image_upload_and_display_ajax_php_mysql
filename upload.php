@@ -33,3 +33,4 @@
 		
 	}
 
+ mysqli_close($connection);
