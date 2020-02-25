@@ -1,0 +1,1 @@
+create a folder uploads in the same directory as the index.php file
